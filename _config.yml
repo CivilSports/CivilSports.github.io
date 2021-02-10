@@ -1,0 +1,15 @@
+---
+title: Page Title
+timezone: UTC
+sass:
+  sass_dir: _sass
+  style: compressed
+title: 'Make Sports Fair'
+description: 'We request that the recent executive order that allowed transgender women to compete in women''s sports be rescinded, as it dismantles the level playing ground that allows biological women to compete in a fair environment and obtain competitive results, potentially netting prestigious victories and scholarships for their work.'
+baseurl: ''
+url: https://civilsports.org
+contact: 'nobody@example.com'
+logo: 'https://civilsports.org/assets/logo.png'
+theme: minima
+plugins:
+- jekyll-sitemap
